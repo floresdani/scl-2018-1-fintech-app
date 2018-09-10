@@ -25,7 +25,7 @@ Visualizandolas nos encontramos que mayormente la propuesta que tienen los banco
 * Otro punto a considerar es que debe estar definido para ambos sistemas operativos.( androi e IOS)
 * Que siga mostrando las transacciones, ahorros y gastos.
 
- ![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/001.png)
+ ![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/benchmark01.jpg)
 
 
 
