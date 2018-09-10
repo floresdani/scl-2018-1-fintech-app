@@ -1,5 +1,5 @@
 # Aplicación financiera
-# Proyecto Final Common Core
+
 ## Preámbulo
 El banco más importante del país se propuso como objetivo tener una mayor tasa de nuevos clientes, para ello, crearon una aplicación financiera donde los usuarios pueden visualizar sus gastos y fomentar el ahorro, de esta manera, poder captar a este público objetivo para que se fidelicen con el banco y eventualmente adquirir un producto bancario (potenciar esos productos).
 
@@ -25,7 +25,7 @@ Visualizandolas nos encontramos que mayormente la propuesta que tienen los banco
 * Otro punto a considerar es que debe estar definido para ambos sistemas operativos.( androi e IOS)
 * Que siga mostrando las transacciones, ahorros y gastos.
 
- [Aplicacion fintonic](../img/001.png)
+ ![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/001.png)
 
 
 
