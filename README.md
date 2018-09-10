@@ -20,6 +20,7 @@ Desde el momento que nos solicitaron realizar las consultorias en ux, fue que em
 Primeramente se realizo un estudio de las aplicaciones bancarias (páginas o app directas de los bancos) y aplicaciónes para analiis de datos bancarios (aplicaciones donde puede acceder cualquier persona, sin necesidad de pertenecer a a lgun banco en particular).
 Visualizandolas nos encontramos que mayormente la propuesta que tienen los bancos rádica en que los clientes puedan ver sus ingresos, transacciones y últimos movimientos, algunas de éstas aplicaciones presentan un sistema de alarmas en el momento que se realizan depositos a las cuentas. Por otro lado las aplicaciones que son para analisis de datos bancarios se encargan mayormente de la distribucion de los ingresos y a medir el ahorro de las personas,  y la descarga para todo tipo de telefono movil ( androi- IOS,). La información de gastos, ahorros etc. de la aplicación es visible mediante gráficos, porcentajes, estadisticas y cifras.
 (al momento de definir nuestros puntos fuertes a ponenciar respecto a nuestros competidores, definimos validarlos posteriormente en las entrevistas y testeos).
+  ![benchmarck]( link)
 
 * Es por ello que uno de los puntos claves a considerar fue el sistema de alarma, ya que es inovador y muy útil puesto que entrega información clave a los usuarios.
 * Otro punto a considerar es que debe estar definido para ambos sistemas operativos.( androi e IOS)
@@ -28,6 +29,59 @@ Visualizandolas nos encontramos que mayormente la propuesta que tienen los banco
  ![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/benchmark01.jpg)
 
 
+**Test Mapa de calor**
+
+Uno de los métodos de testeo que utilizamos fue el mapa de calor en función del clic, ésto quiere decir que podemos visualizar lo que los usuarios vayan clicleando, identificando las zonas más cliqueadas con putnos de color calidos.
+Realizmaos testeo en cuatro tipos de misiones. 
+*Mision Uno: Proceso de registro, donde el usuario o cliente del banco, debe comenzar por loguearse, introducir un código de seguridad, su imagen y posteriormente tener acceso al home de la aplicación (Misión pensada en el entendimiento del proceso de registro), cómo falencia encontramos que existia una parte de validación de seguridad que consistia en poner la huella digital para poder acceder, ésto tuvo grandes deficit puesto que era muy lento y un porcentaje de _____ abandono de la aplicación. Cómo medida, optamos por reestructurar ésta parte y sólo contar con el cógido de validación, puesto que cómo explica el libro "no me hagas pensar" mientras la interfaz es más fácil e intuitiva, más usuarios estarán dispuestos a ocuparla*
+
+![Aplicacion fintonic](link )
+
+*Misión Dos: Visualización de perfil, aquí la misión radicaba principalmente en que los usuarios pudiesen ver de manera rápida e intuitiva su estado de perfil. Aquí existio un problema tambien en cuanto a la indicación de los botones, pero de igual manera tuvo un exito indirecto por descarte, existio un porcentaje de abandono de la mision en un _____%*
+
+![Aplicacion fintonic](link )
+
+*Misión Tres: Crear un cuenta de ahorro. Aquí el mapa de calor presentaba solo un botón en la parte inferior central de la pantalla, la cual desplegaba las tres opciones de busqueda "ahorro","movimientos,"Gastos". al ingresar a la home, éstos salian de manera directa y los uuarios vieron de manera rápida el sector dónde salia ahorro, al ingresar a ésta sección, les costo mucho poder ver el boton de crear una cuenta, por lo que se tomo la determinación de rediseñar uno más visible y con un espaco más amplio. Existio una deserción de ____%*
+![Aplicacion fintonic](link )
+
+
+*Misión cuatro: Poder visualizar la información de los gastos y movimeintos. En esta interfaz muchos intentaron volver atrás y comrendimos que la aplicación no presentaba ésta opción.*
+
+Conclusiones:
+ En base a éstos test del mapa de calor es que se tomaron diversas determinaciones, cómo lo fueron:
+ * Cambio del Menú: propusimos dos tipos de menú, el primero de hambruguesa ya que existe un conocimiento previo de los usuarios por este tipo de menu, es una experiencia adquirida, y por otro lado, propusimo un menu con iconos en la parte inferior de las páginas, puesto que queda mas cercanos a los dedos cuando el usuario ocupa el dispositivo movil sólo con una mano.
+ * Loguin más rápido y fácil ( más directo entrar)
+ * Información del landing page, cambio de formatos de descarga, ya que nuestra propuesta abarca tant ios como androi
+ * Potenciamos los productos del banco y ayuda a nuestros clientes mediante un sistema de alertas, las cuales corresponden a dos tipos.
+   la primera correspende a notificaciones por transacciones o depositos, y aviso inmediato sobre saldos bajos en la app, la segunda corresponde a avisos del banco, acceso a créditos que estan disponibles por un periodo determinado de tiempo (campañas)
+ * Visualización del perfil del usuario, dónde puede volver a cambiar su imagen, correo y datos personales.
+
+ 
+**Entrevistas a product Manager**
+ Se concreto una primera reunión con el product manager, dónde nos dio a conocer la información que le cedio el departamente de marketing, en ella tocamos diversos puntos claves, a continuación exponemos algunos inside de la entrevista:
+
+  Nombre: Allison.
+  Cargo: Product manager.
+  Edad: 35 años.
+  Experiencia en banca: 5 años.
+ 
+* Banco quiere innovar áreas de marketing, comercial y servicio al cliente.
+* Los nuevos clientes del banco son consumidores tecnológicos
+* Los nuevos clientes no están conformes con tener que entrar al sitio web del banco ya que no tenían buena experiencia (no se veía bien y no se    podían realizar ciertas cosas).
+* Existe una app estándar del banco donde se pueden realizar otras transacciones (solicitar crédito de consumo, revisar su línea de crédito y       realizar otros tipos de pago).
+* A largo plazo esperan fusionar las 2 app existentes (app estándar y Fintech).
+* Fintech enfocada al público más joven
+* Gerentes del banco consideraron que había que mejorar ciertas problemáticas con la app estándar del banco.
+* Se pagó por el proyecto de realizar mejoras en la app estándar (actualmente se está realizando).
+* De acuerdo a investigación de marketing, los nuevos clientes son:
+ - Personas jóvenes entre 20 a 35 años.
+ - Nuevos trabajadores (1er o 2do trabajo).
+ - Ingreso variable desde grupo A a C (A representa sueldos básicos y cuentas vistas, B son rentas superiores a $500.00 CLP y C son clientes Gold    o VIP con rentas altas).
+* Nuevos clientes corresponde a los nuevos clientes del banco y a los nuevos clientes potenciales.
+* Marketing definió a los usuarios basándose en la edad.
+* Propuesta de valor (marketing) es tener una mayor tasa de nuevos clientes.
+* A través de la app Fintech buscan potenciar los productos del banco.
+* Fintech creada para clientes del banco
 
 
 ## Detalles sobre la implementación
