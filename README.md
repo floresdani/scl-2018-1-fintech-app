@@ -29,7 +29,7 @@ Visualizandolas nos encontramos que mayormente la propuesta que tienen los banco
  ![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/benchmark01.jpg)
 
 
-**Test Mapa de calor**
+**TEST MAPA DE CALOR**
 
 Uno de los métodos de testeo que utilizamos fue el mapa de calor en función del clic, ésto quiere decir que podemos visualizar lo que los usuarios vayan clicleando, identificando las zonas más cliqueadas con putnos de color calidos.
 Realizmaos testeo en cuatro tipos de misiones. 
@@ -57,7 +57,8 @@ Conclusiones:
  * Visualización del perfil del usuario, dónde puede volver a cambiar su imagen, correo y datos personales.
 
  
-**Entrevistas a product Manager**
+**ENTREVISTA A PRODUCT MANAGER**
+
  Se concreto una primera reunión con el product manager, dónde nos dio a conocer la información que le cedio el departamente de marketing, en ella tocamos diversos puntos claves, a continuación exponemos algunos inside de la entrevista:
 
   Nombre: Allison.
@@ -81,51 +82,81 @@ Conclusiones:
 * Marketing definió a los usuarios basándose en la edad.
 * Propuesta de valor (marketing) es tener una mayor tasa de nuevos clientes.
 * A través de la app Fintech buscan potenciar los productos del banco.
-* Fintech creada para clientes del banco
+* Fintech creada para clientes del banco.
 
 
-## Detalles sobre la implementación
+**ENTREVISTA A TRABAJADOR DE SERVICIO AL CLIENTE**
 
-Investigación de Usuario:
-.Mapa de usuario
- Por medio de un User story mapping fue que descubrimos el MVP de nuestro proyecto, haciendo una mirada de acuerdo al Usuario(visitante)
-Dónde definimos nuestro Objetivo general de usuario como :“ Desearía registrarme de manera rápida y fácil ”, 
-Para ello definimos dos puntos de mayor relevancia, como los son;
--Ingresar datos en un formulario
--Pase para ingresar al recinto.
+1. A Ustedes les informan a las diferentes personas que ven diariamente sobre
+la app o página del banco.
+R// Si, las informaciones y en especial las instrucciones para que pueda
+resolver sus necesidades a través de la web / aplicación
 
-- Entrevistas
-Se realizaron diversas entrevistas para así poder entender las necesidades y requerimientos de los diversos usuarios. 
-Se realizaron entrevistas a :
+2. Llega gente preguntando información que está en otros canales de
+visibilidad, o porque motivo recurren a ustedes directamente.
+R// Si, algunas personas que se preguntan, que se ha encontrado en otros
+canales porque no tienen acceso a estos o por mayor comodidad. También
+se puede comunicar para obtener información más importante o guía con
+respecto a algo que se visualiza anteriormente a través de los canales
+digitales. Los motivos son variados: desde desbloqueos de clave para
+ingresar a la página hasta análisis de facturación o información sobre
+planos de cuenta corriente
 
-Nombre: Pilar Rojas
-Cargo: Administradora de If Blanco.
+3. ¿Cuál es el rango etario de personas que ustedes atienden diariamente?
+R//Mayores de 18 años. El cliente bancario es diverso pero en general tiene
+más frecuencia en los canales digitales y no tiene clientes más jóvenes que
+los que tienen más tiempo en el banco y también sus productos.
 
-Nombre: Vanessa Gajarado
-Cargo: Recepcionista de la Fundación Mustakis, Coordinadora 
+4. ¿cuál es la afluencia de público para un día normal?
+R//Por lo general, siempre hay una gran cantidad de público pero esta
+aumenta considerablemente en fin de mes y quincena, también influye si
+estamos cerca de la fiesta de la diversión
 
-Nombre: Claudia Diaz.
-Cargo: Trabaja en portería de If Blanco.
+5. De esa cantidad “x” de personas, alguna hace preguntas sobre temas de
+ahorro.
+R// No muchas personas preguntan específicamente por ahorro pero si
+usan métodos de ahorro. El banco donde el trabajo tiene una aplicación de
+ahorro que es bastante usado y funciona acorde a las necesidades de una
+cliente con ingresos promedio (500k aprox). Clientes con ingresos más
+altos ahorran a través de depósitos a plazo, que es un tipo de inversión.
 
--sketch baja fidelidad
--sketch de Alta fidelidad
--Iteraciones 
-Realizamos dos iteraciones de prototipo.
-en la primera corregimos los botones de entrada a cada sesión
- y en la segunda agrandamos las letras e incluimos la plataforma del administrador
+Conclusiones:
+Las diversas aplicaciones que fomentan el ahorro lo hacen para personas de clase media, media-ata
+con un ingreso que fluctua entre los segmentos socioeconomicos E (Ingreso mensual promedio de 324 mil pesos. ) y C2(Ingreso mensual promedio de un millón 360 mil pesos. ), pusto que los que se encuentran en el rango de C1B(ngreso mensual promedio de un millón 986 mil pesos. ) y AB( Ingreso total promedio de seis millones 452 mil pesos.) son usuarios que tienden a invertir sus ahorros para generar mas utilidades. 
+Algunos bancos trabajan en forma colaborativa con las app web, dando a conocer a los visitantes del banco todas las acciones que pueden resolver por medio de internet. Por ello es clave tener una web, o app funcionando de la mejor manera, ya que apunta a un público directo y masivo.
 
--Usabilidad
-Se realizó un test de usabilidad a Claudia Díaz en un medio digital tablet.
-En la cual nos dimos cuenta que se confundía con los botones existentes en la primera pantalla. Por lo que se decidió integrar dos tipos de botones, uno para conserjería u otro para administrador.
-También se hizo un cambio en el tipo de letra (ya que debía ser más grande)
+[Datos socioeconomicos, junio-2018](http://www.t13.cl/noticia/nacional/nueva-clasificacion-socioeconomica-como-es-cada-segmento-y-en-cual-estas)
 
-Flujo de Programación 
--Creación de splash
--Html
--CSS
--JS
--Firebase
- Solucionar 
+
+
+**ENTREVISTA CON USUARIOS**
+ 
+ Una vez teniendo en cuenta las visiones de trabajadores del banco y del product manager que estuvo a cargo de la primera parte de la app, es que nos enfocamos en los usuarios. 
+ En esta parte validamos diversas hipotesis que teniamos formuladas cuando hicimos las actividades previas.
+ A continuación algunos inside más relevantes que pudimos extraer:
+
+ - Ingresos distribuidos en: pago cuotas de viajes, gastos básicos de cuentas y para entretención, vestuario y regalos.
+ - Quiere administrar sus productos bancarios desde una cuenta.
+ - Le gustaría administrar información de sus finanzas y así llevar un control.
+ - Información que visualiza de sus finanzas es mensual.
+ - Utiliza planilla excel  para administrar sus ingresos
+ - Quiere tener conciencia de en qué ha gastado.
+ - Su portal web es más completo que su APP móvil.
+ - Quiere poder acceder a su información de manera fácil.
+ - Le gusta hacer sus operaciones bancarias de manera online.
+ - revisa la categoría del gasto (que tipo de gasto es) si es algo esencial o es un lujo, es en lo que más se fija y si tiene un gasto mayor -       quiere averiguar cual fue.
+ - última vez que ahorro fue depositando en su AFP, transfirió un porcentaje de su ingreso mensual, el decició cuanto depositar (10% de sus  -      ingresos lo destina a esta cuenta)
+ - Me motiva a ahorrar porque es mi deber,  mi responsabilidad frente a mí y mi familia, y más de supervivencia.
+ - para llevar control de mis gastos quiero saber mi sueldo (que siempre es fijo, pero de repente llegan bonos) y saber las deudas, con eso ya       empiezo a jugar.
+ - Ahorro en mi cuenta vista de otro banco, porque perdí la tajeta así no puedo sacarla.
+ - Ahorro en una alcancía, asi se que no debo sacar ese dinero.
+
+Conclución: Muchos de nuestros usuarios les cuesta ahorrar, pero aunque sea minimo el ahorro lo ejercen, es por ello que es aprobado el item ahorro, y con el éste item va muy de la mano el item gastos, puesto que si no sabemos cuandos gastos e ingresos tenemos mensualmente, es muy dificil que podamos visualizar cuanto ahorrar, otro punto importante a considerar es que nuestros usuarios no quieren poder sacar esa plata para ahorro, es por ello que como propuesta es que se firme un términos y condiciones de la app, dónde se estipule que el dinero sólo puede ser retirado en el banco. La app debe ser para ambos sistemas operativos, puesto que cubre con nuestro universo de clientes, la app debe ser sencilla y fácil de utilizar.
+
+
+
+
+
 
 ## Colores y logos
 
