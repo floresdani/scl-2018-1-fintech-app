@@ -7,11 +7,11 @@ El banco más importante del país se propuso como objetivo tener una mayor tasa
 Rediseñar una app bancaria, con el objetivo de captar y fidelizar clientes nuevos del banco y potenciales.
 Establecer si es necesario volver a invertir en publicidad de facebook.
 Potenciar los productos bancarios.
-Entregar una propuesta de valor a (marketing).
+Entregar una propuesta de valor a marketing.
 
 
 ## Proceso investigativo.
-Desde el momento que nos solicitaron realizar las consultorías en ux, fue que empezamos un proceso de interiorización del proyecto, realizando una serie te testeos e iteraciones, análisis de data y mejoramiento del prototipo de alta fidelidad.
+Desde el momento que nos solicitaron realizar las consultorías en ux, fue que empezamos un proceso de interiorización del proyecto, realizando una serie de testeos e iteraciones, análisis de data y mejoramiento del prototipo de alta fidelidad.
 
 
 ## Research:
@@ -35,18 +35,20 @@ Visualizándolas nos encontramos que mayormente la propuesta que tienen los banc
 
 Uno de los métodos de testeo que utilizamos fue el mapa de calor en función del clic, esto quiere decir que podemos visualizar lo que los usuarios vayan clicleando, identificando las zonas más cliqueadas con puntos de color cálidos.
 Realizamos testeo en cuatro tipos de misiones. 
-*Misión Uno: Proceso de registro, donde el usuario o cliente del banco, debe comenzar por loguearse, introducir un código de seguridad, su imagen y posteriormente tener acceso al home de la aplicación (Misión pensada en el entendimiento del proceso de registro), cómo falencia encontramos que existía una parte de validación de seguridad que consistía en poner la huella digital para poder acceder, esto tuvo grandes déficit puesto que era muy lento y un porcentaje de _____ abandono de la aplicación. Cómo medida, optamos por reestructurar ésta parte y sólo contar con el código de validación, puesto que cómo explica el libro "no me hagas pensar" mientras la interfaz es más fácil e intuitiva, más usuarios estarán dispuestos a ocuparla*
+*Misión Uno: Proceso de registro, donde el usuario o cliente del banco, debe comenzar por loguearse, introducir un código de seguridad, su imagen y posteriormente tener acceso al home de la aplicación (Misión pensada en el entendimiento del proceso de registro), cómo falencia encontramos que existía una parte de validación de seguridad que consistía en poner la huella digital para poder acceder, esto tuvo grandes déficit puesto que era muy lento y un porcentaje de 30% abandono de la aplicación. Cómo medida, optamos por reestructurar ésta parte y sólo contar con el código de validación, puesto que cómo explica el libro "no me hagas pensar" mientras la interfaz es más fácil e intuitiva, más usuarios estarán dispuestos a ocuparla*
 
-*Misión Dos: Visualización de perfil, aquí la misión radicaba principalmente en que los usuarios pudiesen ver de manera rápida e intuitiva su estado de perfil. Aquí existió un problema también en cuanto a la indicación de los botones, pero de igual manera tuvo un éxito indirecto por descarte, existió un porcentaje de abandono de la misión en un _____%*
+*Misión Dos: Visualización de perfil, aquí la misión radicaba principalmente en que los usuarios pudiesen ver de manera rápida e intuitiva su estado de perfil. Aquí existió un problema también en cuanto a la indicación de los botones, pero de igual manera tuvo un éxito indirecto por descarte, existió un porcentaje de abandono de la misión en un 53%%*
 
-*Misión Tres: Crear una cuenta de ahorro. Aquí el mapa de calor presentaba solo un botón en la parte inferior central de la pantalla, la cual desplegaba las tres opciones de búsqueda "ahorro”, "movimientos”, “Gastos". al ingresar al home, éstos salían de manera directa y los usuarios vieron de manera rápida el sector dónde salía ahorro, al ingresar a ésta sección, les costó mucho poder ver el botón de crear una cuenta, por lo que se tomó la determinación de rediseñar uno más visible y con un espacio más amplio. Existió una deserción de ____%*
+*Misión Tres: Crear una cuenta de ahorro. Aquí el mapa de calor presentaba solo un botón en la parte inferior central de la pantalla, la cual desplegaba las tres opciones de búsqueda "ahorro”, "movimientos”, “Gastos". al ingresar al home, éstos salían de manera directa y los usuarios vieron de manera rápida el sector dónde salía ahorro, al ingresar a ésta sección, les costó mucho poder ver el botón de crear una cuenta, por lo que se tomó la determinación de rediseñar uno más visible y con un espacio más amplio.
+
+*Misión Cuatro : Un porcentaje inferior logro terminar la tarea, siento como porcentaje final que un 69% dejo la app en alguna misión anterior*
 
 
 ![testeo mapa de calor](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/mapa-de-calor.jpg)
 Conclusiones:
  En base a éstos test del mapa de calor es que se tomaron diversas determinaciones, cómo lo fueron:
   * Cambio del Menú: propusimos dos tipos de menú, el primero de hamburguesa ya que existe un conocimiento previo de los usuarios por este tipo de menú, es una experiencia adquirida, y por otro lado, propusimos un menú con iconos en la parte inferior de las páginas, puesto que queda más cercanos a los dedos cuando el usuario ocupa el dispositivo móvil sólo con una mano.
- * Loguin más rápido y fácil (más directo entrar)
+ * Login más rápido y fácil (más directo entrar)
  * Información del landing page, cambio de formatos de descarga, ya que nuestra propuesta abarca tanto iOS como Android
  * Potenciamos los productos del banco y ayuda a nuestros clientes mediante un sistema de alertas, las cuales corresponden a dos tipos.
    la primera corresponde a notificaciones por transacciones o depósitos, y aviso inmediato sobre saldos bajos en la app, la segunda corresponde a avisos del banco, acceso a créditos que están disponibles por un periodo determinado de tiempo (campañas)
@@ -86,12 +88,13 @@ Conclusiones:
 
 1. A Ustedes les informan a las diferentes personas que ven diariamente sobre
 la app o página del banco.
-R// Si, las informaciones y en especial las instrucciones para que pueda
+
+Respuesta: Si, las informaciones y en especial las instrucciones para que pueda
 resolver sus necesidades a través de la web / aplicación
 
 2. Llega gente preguntando información que está en otros canales de
 visibilidad, o porque motivo recurren a ustedes directamente.
-R// Si, algunas personas que se preguntan, que se ha encontrado en otros
+Respuesta: Si, algunas personas que se preguntan, que se ha encontrado en otros
 canales porque no tienen acceso a estos o por mayor comodidad. También
 se puede comunicar para obtener información más importante o guía con
 respecto a algo que se visualiza anteriormente a través de los canales
@@ -100,18 +103,18 @@ ingresar a la página hasta análisis de facturación o información sobre
 planos de cuenta corriente
 
 3. ¿Cuál es el rango etario de personas que ustedes atienden diariamente?
-R//Mayores de 18 años. El cliente bancario es diverso pero en general tiene
+Respuesta:Mayores de 18 años. El cliente bancario es diverso pero en general tiene
 más frecuencia en los canales digitales y no tiene clientes más jóvenes que
 los que tienen más tiempo en el banco y también sus productos.
 
 4. ¿cuál es la afluencia de público para un día normal?
-R//Por lo general, siempre hay una gran cantidad de público pero esta
+Respuesta:Por lo general, siempre hay una gran cantidad de público pero esta
 aumenta considerablemente en fin de mes y quincena, también influye si
 estamos cerca de la fiesta de la diversión
 
 5. De esa cantidad “x” de personas, alguna hace preguntas sobre temas de
 ahorro.
-R// No muchas personas preguntan específicamente por ahorro pero si
+Respuesta: No muchas personas preguntan específicamente por ahorro pero si
 usan métodos de ahorro. El banco donde el trabajo tiene una aplicación de
 ahorro que es bastante usado y funciona acorde a las necesidades de una
 cliente con ingresos promedio (500k aprox). Clientes con ingresos más
@@ -189,17 +192,18 @@ Rojos = #de5e5e ;#f96b6b
 ## Modificaciones 
 
 En base a la propuesta de recomendación es que las modificaciones propuestas suplen algunos déficits como:
-- Mayor porcentaje de clientes antiguos que poseen Android
-- Adquisición de productos bancarios
+- Mayor porcentaje de clientes antiguos que poseen Android.
+- Adquisición de productos bancarios.
 - El presupuesto de publicidad en Facebook no se incrementará, puestos que la taza de visualización tiene un incremento ascendente y prolongado en el tiempo, adicional a ello, proponemos mostrar en la landing los medios de descarga, así el universo se incrementa de manera exponencial, ya que es ahí dónde existe un embudo invertido concreto.
 
 
 
 ## Próximas iteraciones
 Próximos 6 meses (para ver las variaciones de la data )
-- En la iteración n°3 se evaluará la vinculación de la app a la cuenta directa del banco
-- Se comparará el incremento de usuarios nuevos
-- El % de dinero destinado a marketing se invertirá en publicidad de Google, para que nuestra app aparezca en los primeros campos de búsqueda
+- En la iteración n°3 se evaluará la vinculación de la app a la cuenta directa del banco.
+- Se comparará el incremento de usuarios nuevos.
+- El % de dinero destinado a marketing se invertirá en publicidad de Google, Instragarn y spotify, para que nuestra app aparezca en los primeros campos de búsqueda, llegando así a nuestro público objetivo.
+
 
 
 
