@@ -152,9 +152,9 @@ Algunos bancos trabajan en forma colaborativa con las app web, dando a conocer a
 
 Conclución: Muchos de nuestros usuarios les cuesta ahorrar, pero aunque sea minimo el ahorro lo ejercen, es por ello que es aprobado el item ahorro, y con el éste item va muy de la mano el item gastos, puesto que si no sabemos cuandos gastos e ingresos tenemos mensualmente, es muy dificil que podamos visualizar cuanto ahorrar, otro punto importante a considerar es que nuestros usuarios no quieren poder sacar esa plata para ahorro, es por ello que como propuesta es que se firme un términos y condiciones de la app, dónde se estipule que el dinero sólo puede ser retirado en el banco. La app debe ser para ambos sistemas operativos, puesto que cubre con nuestro universo de clientes, la app debe ser sencilla y fácil de utilizar.
 
- [User person 1](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/User%20Person1.jpg)
- [User person 2](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/User%20Person2.jpg)
- [User person 3](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/User%20Person3.jpg)
+ ![User person 1](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/User%20Person1.jpg)
+ ![User person 2](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/User%20Person2.jpg)
+ ![User person 3](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/User%20Person3.jpg)
 
 
 
