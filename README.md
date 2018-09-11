@@ -169,6 +169,11 @@ Verdes= #6bbfab ; #5ba392
 Rojos = #de5e5e ;#f96b6b
 
 ![Muestrario de colores](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/Colors.png)
+![Logo](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/LOGO.png)
+![Isotipo](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/ISOTIPO.png)
+
+
+
  
 ## Modificaciones 
 
