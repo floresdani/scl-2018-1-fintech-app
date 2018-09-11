@@ -156,7 +156,8 @@ Conclución: Muchos de nuestros usuarios les cuesta ahorrar, pero aunque sea min
 
 ##  Propuesta de iteración.
 
-Según datos obteni
+Según datos obtenidos propusimos las siguientes modificaciones:
+![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/solcuion.jpg )
 
 
 
