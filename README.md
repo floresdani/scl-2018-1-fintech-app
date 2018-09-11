@@ -190,4 +190,5 @@ En base a la propuesta de recomendación es que las modificaciones propuestas su
 - El % de dinero destinado a marketing se invertira en publicidad de Google, para que nuestra app aparezca en los primeros campos de búsqueda
 
 
-
+## Para tener acceso a la data de investigación te invitamos a visitar nuestra carpeta de drive.
+[Analisis de Data](https://drive.google.com/drive/u/0/folders/1K3pbyXj_WAkSqfdkE6dA8cO74Sfhifgj)
