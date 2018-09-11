@@ -153,20 +153,36 @@ Algunos bancos trabajan en forma colaborativa con las app web, dando a conocer a
 Conclución: Muchos de nuestros usuarios les cuesta ahorrar, pero aunque sea minimo el ahorro lo ejercen, es por ello que es aprobado el item ahorro, y con el éste item va muy de la mano el item gastos, puesto que si no sabemos cuandos gastos e ingresos tenemos mensualmente, es muy dificil que podamos visualizar cuanto ahorrar, otro punto importante a considerar es que nuestros usuarios no quieren poder sacar esa plata para ahorro, es por ello que como propuesta es que se firme un términos y condiciones de la app, dónde se estipule que el dinero sólo puede ser retirado en el banco. La app debe ser para ambos sistemas operativos, puesto que cubre con nuestro universo de clientes, la app debe ser sencilla y fácil de utilizar.
 
 
-##  Propuesta de iteración.
+##  Propuesta de Recomendacion.
 
 Según datos obtenidos propusimos las siguientes modificaciones:
 ![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/solcuion.jpg )
 
 
-
-
 ## Colores y logos
 
-Los colores son los establecidos por el IF:
-Gris #E6E6E6
-amarillo #F3BF05
-blanco #FFFFFF
-negro #000000
+Los colores se mantuvieron según muestrario del banco, pero se con algunos cambios, ejemplo en la página del home.
+Azules = #506e8d ;#33475c
+Gris = #f0f0f0 
+Blanco= #FFFFFF
+Verdes= #6bbfab ; #5ba392
+Rojos = #de5e5e ;#f96b6b
+
+![Muestrario de colores](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/solcuion.jpg )
  
-Los logos están de acuerdo a los ocupados en el espacio, para así generar una app más cercana a la comunidad.
+## Modificaciones 
+
+En base a la propuesta de recomendación es que las modificaciones propuestas suplen algunos deficit como:
+- Mayor porcentaje de clientes antiguos que poseen androi
+- Adquisición de productos bancarios
+- El prosupuesto de publicidad en facebook no se incrementará, puestos que la taza de visualización tiene un incremento ascendente y prolongado en el tiempo, adhisional a ello, proponemos mostrar en la landing los los medios de descarga, asi el universo se incrementa de manera exponencial, ya que es ahí dónde existe un embudo invertido concreto.
+
+
+## Próximas iteraciones
+ Próximos 6 meses (para ver las variaciones de la data )
+- En la iteración n°3 se evaluara la vinculación de la app a la cuenta directa del banco
+- Se comparará el incremento de usuaios nuevos
+- El % de dinero destinado a marketing se invertira en publicidad de Google, para que nuestra app aparezca en los primeros campos de búsqueda
+
+
+
