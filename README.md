@@ -22,6 +22,9 @@ Visualizándolas nos encontramos que mayormente la propuesta que tienen los banc
 (al momento de definir nuestros puntos fuertes a potenciar respecto a nuestros competidores, definimos validarlos posteriormente en las entrevistas y testeos).
 
   ![benchmarck](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/BENCHMARK%20FINTECH%20-%20Hoja%201.jpg)
+  [ Más sobre benchmarck](https://docs.google.com/spreadsheets/d/1JdM1tvyV16KelmURCPtb1t7Fl57FsggqIJ6AQ-Vc9l0/edit?usp=drive_web&ouid=116008133563303828531)
+
+  
 
 * Es por ello que uno de los puntos claves a considerar fue el sistema de alarma, ya que es innovador y muy útil puesto que entrega información clave a los usuarios.
 * Otro punto a considerar es que debe estar definido para ambos sistemas operativos. (Android e IOS)
@@ -54,6 +57,7 @@ Conclusiones:
    la primera corresponde a notificaciones por transacciones o depósitos, y aviso inmediato sobre saldos bajos en la app, la segunda corresponde a avisos del banco, acceso a créditos que están disponibles por un periodo determinado de tiempo (campañas)
  * Visualización del perfil del usuario, dónde puede volver a cambiar su imagen, correo y datos personales.
 
+[Más sobre Mapa de Calor](https://drive.google.com/drive/u/0/folders/1S13uJwQ1Lc6a80I8d8bf7JKIH4t_tWYS)
 
  
 **ENTREVISTA A PRODUCT MANAGER**
@@ -82,6 +86,8 @@ Conclusiones:
 * Propuesta de valor (marketing) es tener una mayor tasa de nuevos clientes.
 * A través de la app Fintech buscan potenciar los productos del banco.
 * Fintech creada para clientes del banco.
+
+[Lee con mas detalle la entrevista Aquí](https://drive.google.com/drive/u/0/folders/1jLXW4kt_eTT7LPVyf3FrEeyPV2RgKNJ3)
 
 
 **ENTREVISTA A TRABAJADOR DE SERVICIO AL CLIENTE**
@@ -126,7 +132,7 @@ con un ingreso que fluctua entre los segmentos socioeconomicos E (Ingreso mensua
 Algunos bancos trabajan en forma colaborativa con las app web, dando a conocer a los visitantes del banco todas las acciones que pueden resolver por medio de internet. Por ello es clave tener una web, o app funcionando de la mejor manera, ya que apunta a un público directo y masivo.
 
 [Datos socioeconomicos, junio-2018](http://www.t13.cl/noticia/nacional/nueva-clasificacion-socioeconomica-como-es-cada-segmento-y-en-cual-estas)
-
+[Lee con mas detalle la entrevista Aquí](https://drive.google.com/drive/u/0/folders/1GpyzQCGKZ-wI4FexK6h9sOkF0gQiybo7)
 
 
 **ENTREVISTA CON USUARIOS**
@@ -167,7 +173,7 @@ Según datos obtenidos propusimos las siguientes modificaciones:
 ![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/solcuion.jpg)
 
 ##  Prototipo de Alta.
-[Video prototipo funcional](https://marvelapp.com/ed4343j/screen/47588228)
+[Mira el prototipo Aquí](https://marvelapp.com/ed4343j/screen/47583928)
 
 
 
