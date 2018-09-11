@@ -11,54 +11,52 @@ Entregar una propuesta de valor a (marketing).
 
 
 ## Proceso investigativo.
-Desde el momento que nos solicitaron realizar las consultorias en ux, fue que empezamos un proceso de interiorización del proyecto, realizando una serie te testeos e interaciones, analisis de data y mejoramiento del prototipo de alta fidelidad.
+Desde el momento que nos solicitaron realizar las consultorías en ux, fue que empezamos un proceso de interiorización del proyecto, realizando una serie te testeos e iteraciones, análisis de data y mejoramiento del prototipo de alta fidelidad.
 
 
 ## Research:
 
 **BENCHMARCK**
-Primeramente se realizo un estudio de las aplicaciones bancarias (páginas o app directas de los bancos) y aplicaciónes para analiis de datos bancarios (aplicaciones donde puede acceder cualquier persona, sin necesidad de pertenecer a a lgun banco en particular).
-Visualizandolas nos encontramos que mayormente la propuesta que tienen los bancos rádica en que los clientes puedan ver sus ingresos, transacciones y últimos movimientos, algunas de éstas aplicaciones presentan un sistema de alarmas en el momento que se realizan depositos a las cuentas. Por otro lado las aplicaciones que son para analisis de datos bancarios se encargan mayormente de la distribucion de los ingresos y a medir el ahorro de las personas,  y la descarga para todo tipo de telefono movil ( androi- IOS,). La información de gastos, ahorros etc. de la aplicación es visible mediante gráficos, porcentajes, estadisticas y cifras.
-(al momento de definir nuestros puntos fuertes a ponenciar respecto a nuestros competidores, definimos validarlos posteriormente en las entrevistas y testeos).
+Primeramente, se realizó un estudio de las aplicaciones bancarias (páginas o app directas de los bancos) y aplicaciones para análisis de datos bancarios (aplicaciones donde puede acceder cualquier persona, sin necesidad de pertenecer a algún banco en particular).
+Visualizándolas nos encontramos que mayormente la propuesta que tienen los bancos radica en que los clientes puedan ver sus ingresos, transacciones y últimos movimientos, algunas de éstas aplicaciones presentan un sistema de alarmas en el momento que se realizan depósitos a las cuentas. Por otro lado, las aplicaciones que son para análisis de datos bancarios se encargan mayormente de la distribución de los ingresos y a medir el ahorro de las personas, y la descarga para todo tipo de teléfono móvil (Android- IOS,). La información de gastos, ahorros etc. de la aplicación es visible mediante gráficos, porcentajes, estadísticas y cifras.
+(al momento de definir nuestros puntos fuertes a potenciar respecto a nuestros competidores, definimos validarlos posteriormente en las entrevistas y testeos).
+
   ![benchmarck](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/BENCHMARK%20FINTECH%20-%20Hoja%201.jpg)
 
-* Es por ello que uno de los puntos claves a considerar fue el sistema de alarma, ya que es inovador y muy útil puesto que entrega información clave a los usuarios.
-* Otro punto a considerar es que debe estar definido para ambos sistemas operativos.( androi e IOS)
+* Es por ello que uno de los puntos claves a considerar fue el sistema de alarma, ya que es innovador y muy útil puesto que entrega información clave a los usuarios.
+* Otro punto a considerar es que debe estar definido para ambos sistemas operativos. (Android e IOS)
 * Que siga mostrando las transacciones, ahorros y gastos.
+
 
  ![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/benchmark01.jpg)
 
 
 **TEST MAPA DE CALOR**
 
-Uno de los métodos de testeo que utilizamos fue el mapa de calor en función del clic, ésto quiere decir que podemos visualizar lo que los usuarios vayan clicleando, identificando las zonas más cliqueadas con putnos de color calidos.
-Realizmaos testeo en cuatro tipos de misiones. 
-*Mision Uno: Proceso de registro, donde el usuario o cliente del banco, debe comenzar por loguearse, introducir un código de seguridad, su imagen y posteriormente tener acceso al home de la aplicación (Misión pensada en el entendimiento del proceso de registro), cómo falencia encontramos que existia una parte de validación de seguridad que consistia en poner la huella digital para poder acceder, ésto tuvo grandes deficit puesto que era muy lento y un porcentaje de _____ abandono de la aplicación. Cómo medida, optamos por reestructurar ésta parte y sólo contar con el cógido de validación, puesto que cómo explica el libro "no me hagas pensar" mientras la interfaz es más fácil e intuitiva, más usuarios estarán dispuestos a ocuparla*
+Uno de los métodos de testeo que utilizamos fue el mapa de calor en función del clic, esto quiere decir que podemos visualizar lo que los usuarios vayan clicleando, identificando las zonas más cliqueadas con puntos de color cálidos.
+Realizamos testeo en cuatro tipos de misiones. 
+*Misión Uno: Proceso de registro, donde el usuario o cliente del banco, debe comenzar por loguearse, introducir un código de seguridad, su imagen y posteriormente tener acceso al home de la aplicación (Misión pensada en el entendimiento del proceso de registro), cómo falencia encontramos que existía una parte de validación de seguridad que consistía en poner la huella digital para poder acceder, esto tuvo grandes déficit puesto que era muy lento y un porcentaje de _____ abandono de la aplicación. Cómo medida, optamos por reestructurar ésta parte y sólo contar con el código de validación, puesto que cómo explica el libro "no me hagas pensar" mientras la interfaz es más fácil e intuitiva, más usuarios estarán dispuestos a ocuparla*
 
+*Misión Dos: Visualización de perfil, aquí la misión radicaba principalmente en que los usuarios pudiesen ver de manera rápida e intuitiva su estado de perfil. Aquí existió un problema también en cuanto a la indicación de los botones, pero de igual manera tuvo un éxito indirecto por descarte, existió un porcentaje de abandono de la misión en un _____%*
 
-*Misión Dos: Visualización de perfil, aquí la misión radicaba principalmente en que los usuarios pudiesen ver de manera rápida e intuitiva su estado de perfil. Aquí existio un problema tambien en cuanto a la indicación de los botones, pero de igual manera tuvo un exito indirecto por descarte, existio un porcentaje de abandono de la mision en un _____%*
+*Misión Tres: Crear una cuenta de ahorro. Aquí el mapa de calor presentaba solo un botón en la parte inferior central de la pantalla, la cual desplegaba las tres opciones de búsqueda "ahorro”, "movimientos”, “Gastos". al ingresar al home, éstos salían de manera directa y los usuarios vieron de manera rápida el sector dónde salía ahorro, al ingresar a ésta sección, les costó mucho poder ver el botón de crear una cuenta, por lo que se tomó la determinación de rediseñar uno más visible y con un espacio más amplio. Existió una deserción de ____%*
 
-
-*Misión Tres: Crear un cuenta de ahorro. Aquí el mapa de calor presentaba solo un botón en la parte inferior central de la pantalla, la cual desplegaba las tres opciones de busqueda "ahorro","movimientos,"Gastos". al ingresar a la home, éstos salian de manera directa y los uuarios vieron de manera rápida el sector dónde salia ahorro, al ingresar a ésta sección, les costo mucho poder ver el boton de crear una cuenta, por lo que se tomo la determinación de rediseñar uno más visible y con un espaco más amplio. Existio una deserción de ____%*
-
-
-
-*Misión cuatro: Poder visualizar la información de los gastos y movimeintos. En esta interfaz muchos intentaron volver atrás y comrendimos que la aplicación no presentaba ésta opción.*
 
 ![testeo mapa de calor](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/mapa-de-calor.jpg)
 Conclusiones:
  En base a éstos test del mapa de calor es que se tomaron diversas determinaciones, cómo lo fueron:
- * Cambio del Menú: propusimos dos tipos de menú, el primero de hambruguesa ya que existe un conocimiento previo de los usuarios por este tipo de menu, es una experiencia adquirida, y por otro lado, propusimo un menu con iconos en la parte inferior de las páginas, puesto que queda mas cercanos a los dedos cuando el usuario ocupa el dispositivo movil sólo con una mano.
- * Loguin más rápido y fácil ( más directo entrar)
- * Información del landing page, cambio de formatos de descarga, ya que nuestra propuesta abarca tant ios como androi
+  * Cambio del Menú: propusimos dos tipos de menú, el primero de hamburguesa ya que existe un conocimiento previo de los usuarios por este tipo de menú, es una experiencia adquirida, y por otro lado, propusimos un menú con iconos en la parte inferior de las páginas, puesto que queda más cercanos a los dedos cuando el usuario ocupa el dispositivo móvil sólo con una mano.
+ * Loguin más rápido y fácil (más directo entrar)
+ * Información del landing page, cambio de formatos de descarga, ya que nuestra propuesta abarca tanto iOS como Android
  * Potenciamos los productos del banco y ayuda a nuestros clientes mediante un sistema de alertas, las cuales corresponden a dos tipos.
-   la primera correspende a notificaciones por transacciones o depositos, y aviso inmediato sobre saldos bajos en la app, la segunda corresponde a avisos del banco, acceso a créditos que estan disponibles por un periodo determinado de tiempo (campañas)
+   la primera corresponde a notificaciones por transacciones o depósitos, y aviso inmediato sobre saldos bajos en la app, la segunda corresponde a avisos del banco, acceso a créditos que están disponibles por un periodo determinado de tiempo (campañas)
  * Visualización del perfil del usuario, dónde puede volver a cambiar su imagen, correo y datos personales.
+
 
  
 **ENTREVISTA A PRODUCT MANAGER**
 
- Se concreto una primera reunión con el product manager, dónde nos dio a conocer la información que le cedio el departamente de marketing, en ella tocamos diversos puntos claves, a continuación exponemos algunos inside de la entrevista:
+ Se concretó una primera reunión con el product manager, dónde nos dio a conocer la información que le cedió el departamento de marketing, en ella tocamos diversos puntos claves, a continuación, exponemos algunos inside de la entrevista:
 
   Nombre: Allison.
   Cargo: Product manager.
@@ -130,9 +128,10 @@ Algunos bancos trabajan en forma colaborativa con las app web, dando a conocer a
 
 **ENTREVISTA CON USUARIOS**
  
- Una vez teniendo en cuenta las visiones de trabajadores del banco y del product manager que estuvo a cargo de la primera parte de la app, es que nos enfocamos en los usuarios. 
- En esta parte validamos diversas hipotesis que teniamos formuladas cuando hicimos las actividades previas.
- A continuación algunos inside más relevantes que pudimos extraer:
+  Una vez teniendo en cuenta las visiones de trabajadores del banco y del product manager que estuvo a cargo de la primera parte de la app, es que nos enfocamos en los usuarios. 
+  En esta parte validamos diversas hipótesis que teníamos formuladas cuando hicimos las actividades previas.
+  A continuación algunos inside más relevantes que pudimos extraer:
+
 
  - Ingresos distribuidos en: pago cuotas de viajes, gastos básicos de cuentas y para entretención, vestuario y regalos.
  - Quiere administrar sus productos bancarios desde una cuenta.
@@ -150,7 +149,7 @@ Algunos bancos trabajan en forma colaborativa con las app web, dando a conocer a
  - Ahorro en mi cuenta vista de otro banco, porque perdí la tajeta así no puedo sacarla.
  - Ahorro en una alcancía, asi se que no debo sacar ese dinero.
 
-Conclución: Muchos de nuestros usuarios les cuesta ahorrar, pero aunque sea minimo el ahorro lo ejercen, es por ello que es aprobado el item ahorro, y con el éste item va muy de la mano el item gastos, puesto que si no sabemos cuandos gastos e ingresos tenemos mensualmente, es muy dificil que podamos visualizar cuanto ahorrar, otro punto importante a considerar es que nuestros usuarios no quieren poder sacar esa plata para ahorro, es por ello que como propuesta es que se firme un términos y condiciones de la app, dónde se estipule que el dinero sólo puede ser retirado en el banco. La app debe ser para ambos sistemas operativos, puesto que cubre con nuestro universo de clientes, la app debe ser sencilla y fácil de utilizar.
+Conclusión: Muchos de nuestros usuarios les cuesta ahorrar, pero aunque sea mínimo el ahorro lo ejercen, es por ello que es aprobado el ítem ahorro, y con el éste ítem va muy de la mano el ítem gastos, puesto que si no sabemos cuántos gastos e ingresos tenemos mensualmente, es muy difícil que podamos visualizar cuanto ahorrar, otro punto importante a considerar es que nuestros usuarios no quieren poder sacar esa plata para ahorro, es por ello  que como propuesta es que se firme un términos y condiciones de la app, dónde se estipule que el dinero sólo puede ser retirado en el banco. La app debe ser para ambos sistemas operativos, puesto que cubre con nuestro universo de clientes, la app debe ser sencilla y fácil de utilizar.
 
  [User person 1](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/User%20Person1.jpg)
  [User person 2](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/User%20Person2.jpg)
@@ -189,17 +188,19 @@ Rojos = #de5e5e ;#f96b6b
  
 ## Modificaciones 
 
-En base a la propuesta de recomendación es que las modificaciones propuestas suplen algunos deficit como:
-- Mayor porcentaje de clientes antiguos que poseen androi
+En base a la propuesta de recomendación es que las modificaciones propuestas suplen algunos déficits como:
+- Mayor porcentaje de clientes antiguos que poseen Android
 - Adquisición de productos bancarios
-- El prosupuesto de publicidad en facebook no se incrementará, puestos que la taza de visualización tiene un incremento ascendente y prolongado en el tiempo, adhisional a ello, proponemos mostrar en la landing los los medios de descarga, asi el universo se incrementa de manera exponencial, ya que es ahí dónde existe un embudo invertido concreto.
+- El presupuesto de publicidad en Facebook no se incrementará, puestos que la taza de visualización tiene un incremento ascendente y prolongado en el tiempo, adicional a ello, proponemos mostrar en la landing los medios de descarga, así el universo se incrementa de manera exponencial, ya que es ahí dónde existe un embudo invertido concreto.
+
 
 
 ## Próximas iteraciones
- Próximos 6 meses (para ver las variaciones de la data )
-- En la iteración n°3 se evaluara la vinculación de la app a la cuenta directa del banco
-- Se comparará el incremento de usuaios nuevos
-- El % de dinero destinado a marketing se invertira en publicidad de Google, para que nuestra app aparezca en los primeros campos de búsqueda
+Próximos 6 meses (para ver las variaciones de la data )
+- En la iteración n°3 se evaluará la vinculación de la app a la cuenta directa del banco
+- Se comparará el incremento de usuarios nuevos
+- El % de dinero destinado a marketing se invertirá en publicidad de Google, para que nuestra app aparezca en los primeros campos de búsqueda
+
 
 
 ## Para tener acceso a la data de investigación te invitamos a visitar nuestra carpeta de drive.
