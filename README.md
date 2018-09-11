@@ -20,7 +20,7 @@ Desde el momento que nos solicitaron realizar las consultorias en ux, fue que em
 Primeramente se realizo un estudio de las aplicaciones bancarias (páginas o app directas de los bancos) y aplicaciónes para analiis de datos bancarios (aplicaciones donde puede acceder cualquier persona, sin necesidad de pertenecer a a lgun banco en particular).
 Visualizandolas nos encontramos que mayormente la propuesta que tienen los bancos rádica en que los clientes puedan ver sus ingresos, transacciones y últimos movimientos, algunas de éstas aplicaciones presentan un sistema de alarmas en el momento que se realizan depositos a las cuentas. Por otro lado las aplicaciones que son para analisis de datos bancarios se encargan mayormente de la distribucion de los ingresos y a medir el ahorro de las personas,  y la descarga para todo tipo de telefono movil ( androi- IOS,). La información de gastos, ahorros etc. de la aplicación es visible mediante gráficos, porcentajes, estadisticas y cifras.
 (al momento de definir nuestros puntos fuertes a ponenciar respecto a nuestros competidores, definimos validarlos posteriormente en las entrevistas y testeos).
-  ![benchmarck]( link)
+  ![benchmarck](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/BENCHMARK%20FINTECH%20-%20Hoja%201.jpg)
 
 * Es por ello que uno de los puntos claves a considerar fue el sistema de alarma, ya que es inovador y muy útil puesto que entrega información clave a los usuarios.
 * Otro punto a considerar es que debe estar definido para ambos sistemas operativos.( androi e IOS)
@@ -45,7 +45,7 @@ Realizmaos testeo en cuatro tipos de misiones.
 
 *Misión cuatro: Poder visualizar la información de los gastos y movimeintos. En esta interfaz muchos intentaron volver atrás y comrendimos que la aplicación no presentaba ésta opción.*
 
-![Aplicacion fintonic](link )
+![testeo mapa de calor](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/mapa-de-calor.jpg)
 Conclusiones:
  En base a éstos test del mapa de calor es que se tomaron diversas determinaciones, cómo lo fueron:
  * Cambio del Menú: propusimos dos tipos de menú, el primero de hambruguesa ya que existe un conocimiento previo de los usuarios por este tipo de menu, es una experiencia adquirida, y por otro lado, propusimo un menu con iconos en la parte inferior de las páginas, puesto que queda mas cercanos a los dedos cuando el usuario ocupa el dispositivo movil sólo con una mano.
