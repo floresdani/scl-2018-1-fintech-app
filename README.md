@@ -35,18 +35,17 @@ Uno de los métodos de testeo que utilizamos fue el mapa de calor en función de
 Realizmaos testeo en cuatro tipos de misiones. 
 *Mision Uno: Proceso de registro, donde el usuario o cliente del banco, debe comenzar por loguearse, introducir un código de seguridad, su imagen y posteriormente tener acceso al home de la aplicación (Misión pensada en el entendimiento del proceso de registro), cómo falencia encontramos que existia una parte de validación de seguridad que consistia en poner la huella digital para poder acceder, ésto tuvo grandes deficit puesto que era muy lento y un porcentaje de _____ abandono de la aplicación. Cómo medida, optamos por reestructurar ésta parte y sólo contar con el cógido de validación, puesto que cómo explica el libro "no me hagas pensar" mientras la interfaz es más fácil e intuitiva, más usuarios estarán dispuestos a ocuparla*
 
-![Aplicacion fintonic](link )
 
 *Misión Dos: Visualización de perfil, aquí la misión radicaba principalmente en que los usuarios pudiesen ver de manera rápida e intuitiva su estado de perfil. Aquí existio un problema tambien en cuanto a la indicación de los botones, pero de igual manera tuvo un exito indirecto por descarte, existio un porcentaje de abandono de la mision en un _____%*
 
-![Aplicacion fintonic](link )
 
 *Misión Tres: Crear un cuenta de ahorro. Aquí el mapa de calor presentaba solo un botón en la parte inferior central de la pantalla, la cual desplegaba las tres opciones de busqueda "ahorro","movimientos,"Gastos". al ingresar a la home, éstos salian de manera directa y los uuarios vieron de manera rápida el sector dónde salia ahorro, al ingresar a ésta sección, les costo mucho poder ver el boton de crear una cuenta, por lo que se tomo la determinación de rediseñar uno más visible y con un espaco más amplio. Existio una deserción de ____%*
-![Aplicacion fintonic](link )
+
 
 
 *Misión cuatro: Poder visualizar la información de los gastos y movimeintos. En esta interfaz muchos intentaron volver atrás y comrendimos que la aplicación no presentaba ésta opción.*
 
+![Aplicacion fintonic](link )
 Conclusiones:
  En base a éstos test del mapa de calor es que se tomaron diversas determinaciones, cómo lo fueron:
  * Cambio del Menú: propusimos dos tipos de menú, el primero de hambruguesa ya que existe un conocimiento previo de los usuarios por este tipo de menu, es una experiencia adquirida, y por otro lado, propusimo un menu con iconos en la parte inferior de las páginas, puesto que queda mas cercanos a los dedos cuando el usuario ocupa el dispositivo movil sólo con una mano.
